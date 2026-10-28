@@ -1,0 +1,6 @@
+{
+  "name": "Climate Action & Sustainable Energy",
+  "description": "An interactive, data-driven climate awareness, renewable energy analytics, personal carbon footprint calculator, and sustainability action platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
